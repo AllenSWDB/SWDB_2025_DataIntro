@@ -2,12 +2,8 @@
 	"version": 1,
 	"attached_datasets": [
 		{
-			"id": "3358a1a6-ba22-4be5-830a-5b047c4f4c01",
-			"mount": "single-plane-ophys_731015_2025-01-24_20-00-44_processed_2025-05-10_22-05-27"
-		},
-		{
-			"id": "a63a5366-59e9-4ace-9b1d-d3d0b72a264a",
-			"mount": "allen-brain-observatory"
+			"id": "8abca86b-92e9-42b1-aa93-3bfd11cc5f50",
+			"mount": "np-ultra-psychedelics"
 		}
 	]
 }
