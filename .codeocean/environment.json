@@ -2,8 +2,7 @@
 	"version": 1,
 	"base_image": "codeocean/mambaforge3:23.1.0-4-python3.10.12-ubuntu22.04",
 	"args": [
-		"API_KEY",
-		"API_SECRET"
+		"CUSTOM_KEY"
 	],
 	"post_install": true,
 	"options": {
