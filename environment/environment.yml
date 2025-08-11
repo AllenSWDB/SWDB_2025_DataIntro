@@ -1,6 +1,0 @@
-environment_version: 1
-credentials:
-- type: general
-  id: 2wpnJqlANcNZ5rJs
-  description: AIND Kachery Zone
-  value: CUSTOM_KEY
