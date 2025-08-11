@@ -1,0 +1,7 @@
+environment_version: 1
+credentials:
+- type: api-key
+  id: 2er1HqKNgsVBZ2bg
+  description: Andrew Shelton API cred
+  key: API_KEY
+  secret: API_SECRET
