@@ -2,6 +2,7 @@
 	"version": 1,
 	"attached_datasets": [
 		{
+<<<<<<< HEAD
 			"id": "07fbb746-39fd-4973-8f7c-57e004e91880",
 			"mount": "single-plane-ophys_731015_2025-01-28_17-40-57_processed_2025-07-23_01-13-15"
 		},
@@ -20,6 +21,14 @@
 		{
 			"id": "ea6c1aff-62e2-4289-bf7f-5fff930c80f7",
 			"mount": "single-plane-ophys_731015_2025-01-28_18-56-35_processed_2025-07-23_01-03-55"
+=======
+			"id": "5b660c71-795e-442a-a405-69775f34b6fe",
+			"mount": "dynamic-foraging-behavior"
+		},
+		{
+			"id": "8abca86b-92e9-42b1-aa93-3bfd11cc5f50",
+			"mount": "np-ultra-psychedelics"
+>>>>>>> 59b4602ed72b586008ba455865e185ac952c2814
 		}
 	]
 }
