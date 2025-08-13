@@ -1,7 +1,7 @@
 environment_version: 1
 credentials:
 - type: api-key
-  id: yukOR4HNi5YLhKdJ
+  id: 6GpbOqdZrBUAFjin
   description: aind-hcr-data-loader
-  key: API_KEY
-  secret: API_SECRET
+  key: API_KEY_2
+  secret: API_SECRET_2
