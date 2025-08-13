@@ -5,3 +5,7 @@ credentials:
   description: aind-hcr-data-loader
   key: API_KEY_2
   secret: API_SECRET_2
+- type: general
+  id: nQfDqIm71EhH3ij5
+  description: hcr_unmixing_dev
+  value: CUSTOM_KEY
