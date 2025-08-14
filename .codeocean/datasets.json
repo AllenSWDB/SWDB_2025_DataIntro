@@ -10,6 +10,10 @@
 			"mount": "brain-computer-interface"
 		},
 		{
+			"id": "5b660c71-795e-442a-a405-69775f34b6fe",
+			"mount": "dynamic-foraging-behavior"
+		},
+		{
 			"id": "8abca86b-92e9-42b1-aa93-3bfd11cc5f50",
 			"mount": "np-ultra-psychedelics"
 		},
