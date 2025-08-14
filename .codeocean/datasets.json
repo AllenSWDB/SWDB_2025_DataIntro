@@ -6,6 +6,10 @@
 			"mount": "single-plane-ophys_731015_2025-01-28_17-40-57_processed_2025-07-23_01-13-15"
 		},
 		{
+			"id": "5120228b-3169-4984-9523-967f17534daa",
+			"mount": "brain-computer-interface"
+		},
+		{
 			"id": "8abca86b-92e9-42b1-aa93-3bfd11cc5f50",
 			"mount": "np-ultra-psychedelics"
 		},
