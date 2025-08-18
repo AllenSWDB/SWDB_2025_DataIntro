@@ -3,7 +3,7 @@
 Capsule with notebooks demonstrating pynwb data access along with exercises and problem sets to practice data access patterns and learn about additional datasets. 
 
 Notebooks include: 
-* Workshop-1-Data-Access.ipynb
+* Workshop-2-Data-Access-pynwb.ipynb
 * Workshop-2-SciQuest-Learning.ipynb
 
 GitHub repo for this capsule: https://github.com/AllenSWDB/SWDB_2025_DataIntro 
