@@ -18,7 +18,8 @@
 					"version": "3.14.6"
 				},
 				{
-					"name": "hdmf-zarr"
+					"name": "hdmf-zarr",
+					"version": "0.11.3"
 				},
 				{
 					"name": "matplotlib",
@@ -37,7 +38,8 @@
 					"version": "2.2.3"
 				},
 				{
-					"name": "pynwb"
+					"name": "pynwb",
+					"version": "3.0.0"
 				}
 			],
 			"options": {},
