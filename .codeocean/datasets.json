@@ -10,8 +10,24 @@
 			"mount": "dynamic-foraging-behavior"
 		},
 		{
+			"id": "5ddf31b8-c0d8-48af-8b6d-8f15a391cf41",
+			"mount": "416296_V1DD"
+		},
+		{
 			"id": "8abca86b-92e9-42b1-aa93-3bfd11cc5f50",
 			"mount": "np-ultra-psychedelics"
+		},
+		{
+			"id": "91ebea6e-7ea7-4810-a167-80b01d1e906b",
+			"mount": "438833_V1DD"
+		},
+		{
+			"id": "a801e767-92a4-4afe-926c-61b815e09760",
+			"mount": "409828_V1DD_GoldenMouse"
+		},
+		{
+			"id": "b234eca7-62d8-499d-9d48-2c3ba0c2ee26",
+			"mount": "427836_V1DD"
 		}
 	]
 }
